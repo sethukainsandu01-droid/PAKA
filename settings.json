@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "sethuka1.aternos.me:37837",
+    "port": 37837,
     "version": "",
     "try-creative": false
   },
